@@ -1,0 +1,76 @@
+body {
+    color: white;
+    font-family: 'Courier Prime', monospace;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 16px;
+}
+form {
+    background-color: #fa5959;
+    font-size: 16px;
+    width: 50%;
+    height: 50%;
+    padding: 30px;
+    border-radius: 40px;
+}
+#name {
+    margin-left: 24px;
+    height: 30px;
+    width: 350px;
+}
+#email {
+    margin-left: 150px;
+    height: 30px;
+    width: 350px;
+}
+#
+#ramyeon {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    width: 100%;
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+#validation {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+.gogi {
+    display: flex;
+    justify-content: center;
+    align-content:center;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: white;
+    background: #fa5959;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Courier Prime', Courier, monospace;
+    font-weight: 500, 700;
+    font: bolder;
+    
+
+}
+.water {
+    align-content: center;
+    justify-content: center;
+    display:flex;
+}
+.formgroup {
+    width: 350px;
+    height: 30px;
+}
+#email {
+    border: 5px solid red;
+}
+.asteric {
+    color: red;
+}
+#privacy {
+    color: blue;
+}

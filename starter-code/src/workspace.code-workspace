@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Project_1"
+		},
+		{
+			"path": "..\\..\\..\\Project_2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ONRAMP-011-WEEK-ONE-TASK"
+	}
+}
